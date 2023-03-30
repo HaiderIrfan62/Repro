@@ -8,4 +8,6 @@ https://instagram.com/reprogiki?igshid=YmMyMTA2M2Y=
 To run the users app open the folder named Repro in AndroidStudio
 
 #Riders App
-To run the riders app open the folder named 
+To run the riders app open the folder named ReproAdminv2 in AndroidStudio
+
+Make sure that Kotlin is installed.
