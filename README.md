@@ -15,3 +15,6 @@ To login use the username: rider1 and password: repro
 Make sure that Kotlin is installed.
 
 Trash is classified into 10 different types by our model but for now we are only dealing with three.
+
+
+![Repro App UI](https://github.com/HaiderIrfan62/Repro/assets/99270101/eb81e262-797f-430f-83c4-63d96eb8279a)
